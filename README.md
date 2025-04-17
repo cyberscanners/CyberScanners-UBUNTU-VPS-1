@@ -1,5 +1,7 @@
 # CyberScanners/UBUNTU/VPS-V1
 
+# 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐔𝐁𝐔𝐍𝐓𝐔 22.04 𝐏𝐘𝐓𝐇𝐎𝐍 𝐕𝐏𝐒-𝐕1
+
 UBUNTU INSTALL.
 
 $ apt update && apt upgrade
