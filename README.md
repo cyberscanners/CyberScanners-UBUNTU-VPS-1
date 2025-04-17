@@ -24,4 +24,4 @@ $ bash vps.sh
 
 http://127.0.0.1:8080
 
-• ඉස්සරහට ඔයාට Apache, NGINX, SSH, Node.js වගේ දේවල් install කරගෙන VPS එකක් වගේම run කරන්න පුළුවන්.
+• ඔයාට Apache, NGINX, SSH, Node.js වගේ දේවල් install කරගෙන VPS එකක් වගේම run කරන්න පුළුවන්.
