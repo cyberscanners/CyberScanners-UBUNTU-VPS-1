@@ -25,3 +25,12 @@ $ bash vps.sh
 http://127.0.0.1:8080
 
 • ඔයාට Apache, NGINX, SSH, Node.js වගේ දේවල් install කරගෙන VPS එකක් වගේම run කරන්න පුළුවන්.
+
+• Local Network (LAN) තුලින් Access වෙන්නෙ මෙහෙමයි:
+
+1. Mobile device එකේ IP address එක බලන්න.ඒකෙන් inet යටතේ තියන IP එක (e.g., 192.168.1.5) අරගන්න.
+
+2. වෙන device එකක browser එකක් හෝ එකකින් මෙහෙම access කරන්න:
+
+http://192.168.1.5:8080
+
