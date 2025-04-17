@@ -1,1 +1,1 @@
-# CyberScanners-UBUNTU-VPS-V1
+# CyberScanners/UBUNTU/VPS-V1
